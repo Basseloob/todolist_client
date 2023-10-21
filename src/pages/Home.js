@@ -1,7 +1,9 @@
 import React from "react";
 
+// 1) Show all the Todolist Items.
+
 const Home = () => {
-  return <div className="home"></div>;
+  return <div className="home">HOmeeeeeeeeee</div>;
 };
 
 export default Home;
